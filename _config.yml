@@ -1,0 +1,8 @@
+name: Enlighten Charity
+url: http://www.enlightencharity.org
+description: A Charity for Education
+
+paginate: 10
+
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
